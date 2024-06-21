@@ -1,0 +1,24 @@
+C:\Users\Acer\Desktop\C++\23 Корж\bin\Debug\net6.0-windows\23 Коржик.exe
+C:\Users\Acer\Desktop\C++\23 Корж\bin\Debug\net6.0-windows\23 Коржик.dll.config
+C:\Users\Acer\Desktop\C++\23 Корж\bin\Debug\net6.0-windows\23 Коржик.deps.json
+C:\Users\Acer\Desktop\C++\23 Корж\bin\Debug\net6.0-windows\23 Коржик.runtimeconfig.json
+C:\Users\Acer\Desktop\C++\23 Корж\bin\Debug\net6.0-windows\23 Коржик.dll
+C:\Users\Acer\Desktop\C++\23 Корж\bin\Debug\net6.0-windows\23 Коржик.pdb
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\_20.Form1.resources
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\_20.Form2.resources
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\_20.Form3.resources
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\_20.Form4.resources
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\_20.Form5.resources
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\_20.Form6.resources
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\_20.Form7.resources
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\_20.Properties.Resources.resources
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\23 Коржик.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\23 Коржик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\23 Коржик.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\23 Коржик.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\23 Коржик.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\23 Коржик.dll
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\refint\23 Коржик.dll
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\23 Коржик.pdb
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\23 Коржик.genruntimeconfig.cache
+C:\Users\Acer\Desktop\C++\23 Корж\obj\Debug\net6.0-windows\ref\23 Коржик.dll
